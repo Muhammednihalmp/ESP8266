@@ -17,25 +17,21 @@ An Android app to control the built-in blue LED on an ESP8266 over WiFi. The ESP
 
 ### App UI
 <p>
-  <img src="App-imgs/wifi-connected.jpg" width="300" height="600" alt="WiFi Connected"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="App-imgs/wifi-disconnected.jpg" width="300" height="600" alt="WiFi Disconnected"/>
+  <img src="App-imgs/wifi-connected.jpg" width="190" height="420" alt="WiFi Connected"/>
+  &nbsp;&nbsp;
+  <img src="App-imgs/wifi-disconnected.jpg" width="190" height="420" alt="WiFi Disconnected"/>
+  &nbsp;&nbsp;
+  <img src="App-imgs/cannot-reach.jpg" width="190" height="420" alt="Cannot Reach"/>
   <br/>
-  <sub>WiFi Connected &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; WiFi Disconnected</sub>
+  <sub>WiFi Connected &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; WiFi Disconnected &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cannot Reach</sub>
 </p>
 
 <p>
-  <img src="App-imgs/led-is-on.jpg" width="300" height="600" alt="LED is ON"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="App-imgs/led-is-off.jpg" width="300" height="600" alt="LED is OFF"/>
+  <img src="App-imgs/led-is-on.jpg" width="190" height="420" alt="LED is ON"/>
+  &nbsp;&nbsp;
+  <img src="App-imgs/led-is-off.jpg" width="190" height="420" alt="LED is OFF"/>
   <br/>
-  <sub>LED is ON &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; LED is OFF</sub>
-</p>
-
-<p>
-  <img src="App-imgs/cannot-reach.jpg" width="300" height="600" alt="Cannot Reach ESP8266"/>
-  <br/>
-  <sub>Cannot Reach ESP8266</sub>
+  <sub>LED is ON &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; LED is OFF</sub>
 </p>
 
 ---
