@@ -14,10 +14,15 @@ An Android app to control the built-in blue LED on an ESP8266 over WiFi. The ESP
 ---
 
 ## 🖼 Screenshots & Images
- 
+
 ### App UI
-<img src="App-imgs/wifi-connected.jpg" width="300" height="500" alt="App Screenshot"/>
-<img src="App-imgs/wifi-disconnected.jpg" width="300" height="500" alt="App Screenshot"/>
+<p>
+  <img src="App-imgs/wifi-connected.jpg" width="300" height="600" alt="WiFi Connected"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="App-imgs/wifi-disconnected.jpg" width="300" height="600" alt="WiFi Disconnected"/>
+  <br/>
+  <sub>WiFi Connected &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; WiFi Disconnected</sub>
+</p>
 
 ---
 
