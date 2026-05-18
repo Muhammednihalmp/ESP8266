@@ -57,7 +57,7 @@ An Android app to control the built-in blue LED on an ESP8266 over WiFi. The ESP
 ## 📂 Project Structure
 
 ```
-ESP8266_LED_App/
+ESP8266/
 ├── app/
 │   └── src/
 │       └── main/
@@ -70,7 +70,7 @@ ESP8266_LED_App/
 │           │       └── ic_launcher.png
 │           └── AndroidManifest.xml
 └── esp8266/
-    └── esp8266_led.ino
+    └── esp8266.ino
 ```
 
 ---
